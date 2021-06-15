@@ -11,15 +11,15 @@ How does it work ?
 Duplython underhood is able to detect any duplicate file using **hashing**, each single file whether its image | music | video has a unique hash, so if any two file with duplicate hash, one of them will be removed.
 
 
-Getting started 
+Getting started
 ------------------
-To start using this tool you might wanna clone or download this repository 
+To start using this tool you might wanna clone or download this repository
 
 ```bash
-$-> git clone https://github.com/Kalebu/Duplython
+$-> git clone https://github.com/ray4ever/Duplython
 ```
 
-Dependencies 
+Dependencies
 -------------
 
 You don't need to install anything, all the libraries and module used in this tool are found in the Python standard library.
@@ -38,16 +38,16 @@ Duplicates Screaming out
 --------------------------
 Now once you run the script, the duplicates present in any subfolder of a top directory will be screaming out as a result of script detecting them thus removing their finger print to your disk, adding up more space to store your important files
 
-Issues 
+Issues
 -----------
 
 Incase you have any difficulties or issues while trying to run the script
-you can raise it on the issues. 
+you can raise it on the issues.
 
 Pull Requests
 ----------------
 
-If you have something to add I welcome pull requests on improvement , you're helpful contribution will be merged as soon as possible 
+If you have something to add I welcome pull requests on improvement , you're helpful contribution will be merged as soon as possible
 
 Give it a Star ✴️
 --------------------
@@ -55,4 +55,6 @@ If you find this repo useful , give it a star
 
 Credits
 -----------
-All the credits to [kalebu](github.com/kalebu)
+Credits to:
+[kalebu](github.com/kalebu)
+[ray4ever](github.com/ray4ever)
